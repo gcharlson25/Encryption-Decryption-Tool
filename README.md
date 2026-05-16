@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java tool processes text-based messages and transforms them using a configurable character-based key. Messages can be encrypted for secure transmission and later decrypted to recover the original content. Input and output are handled entirely through external text files. The encryption and decryption system simulates secure communication between a field operative and their superiors. This project emphasizes file I/O, string manipulation, and modular program design.
+This Java tool implements a Vigenère cipher engine that processes text-based messages and transforms them using a configurable character-based key. Messages can be encrypted for secure transmission and later decrypted to recover the original content. Input and output are handled entirely through external text files. The encryption and decryption system simulates secure communication between a field operative and their superiors. This project emphasizes file I/O, string manipulation, and modular program design.
 
 ## Project Structure
 ```
